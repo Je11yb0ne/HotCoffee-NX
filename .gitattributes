@@ -1,0 +1,3 @@
+# 源码与文档统一 LF（Windows 上 git 默认会把 LF 转成 CRLF，这里禁掉，保持仓库一致）
+* text=auto eol=lf
+*.nsc binary
